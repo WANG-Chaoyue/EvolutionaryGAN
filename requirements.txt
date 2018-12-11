@@ -1,0 +1,9 @@
+python>=2.7
+numpy>=1.13.3
+scipy>=1.0.0
+theano>=1.0.0
+lassagne>=0.2
+tensorflow-gpu>=1.6
+h5py>=2.7.1
+matplotlib>=2.1.2
+pillow>=3.1.1
