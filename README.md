@@ -1,5 +1,5 @@
 # EvolutionaryGAN
-We provided Theano implementations for [Evolutionary Generative Adversarial Networks (E-GAN)](https://arxiv.org/abs/1803.00657). Meanwhile, we are working on new Pytorch-based implementations and will relese it in the near further. 
+We provided Theano implementations for [Evolutionary Generative Adversarial Networks (E-GAN)](https://arxiv.org/abs/1803.00657). Meanwhile, we are working on new [Pytorch-based implementations](https://github.com/WANG-Chaoyue/EvolutionaryGAN-pytorch).
 
 ## Getting started
 
